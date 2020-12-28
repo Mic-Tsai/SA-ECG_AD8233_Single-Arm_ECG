@@ -1,4 +1,4 @@
-![*SA-ECG*](https://github.com/Mic-Tsai/Sensor_ECG_PPG_MAX86150_Patch/blob/main/res/Sensor_ECG_PPG_MAX86150_Patch-1.png)
+![*SA-ECG*](https://github.com/Mic-Tsai/SA-ECG_AD8233_Single-Arm_ECG/blob/main/res/SA-ECG_Single%20Arm_ECG-1.png)
 # SA-ECG | Single-Arm ECG
 
 Base on ADI AD8232/AD8233 Analog ADC board, 
@@ -13,8 +13,6 @@ This application support WiFi transmission via ESPNOW (ESP8266 Broadcast), and n
 
 1) Read receiver esp8266's mac address.
 2) Fill it into the transmitter sketch. "broadcastAddress"
-
-
 
 
 ```
