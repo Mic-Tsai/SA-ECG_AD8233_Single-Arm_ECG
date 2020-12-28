@@ -1,8 +1,6 @@
-![*SA-ECG*](https://github.com/Mic-Tsai/SA-ECG_AD8233_Single-Arm_ECG/blob/main/res/SA-ECG_Single%20Arm_ECG-1.png)
 # SA-ECG | Single-Arm ECG
 
-Base on ADI AD8232/AD8233 Analog ADC board, 
-
+Accroding to previous project experience that board level noise coming from power source (USB cable). This application follow the wireless way to transfering data by esp-8266 microcomtrol, with ADI AD8232/AD8233 analog ADC board catch bio-signal. Results show following.
 
 
  -Add additional OPA for reference electrodes.
@@ -10,6 +8,12 @@ Base on ADI AD8232/AD8233 Analog ADC board,
  -SA-ECG results showing R-R interval.
 
 
+* [Sensor_ECG_PPG_MAX86150_Dev-Board](https://github.com/Mic-Tsai/Sensor_ECG_PPG_MAX86150_Dev-Board)
+* [Sensor_ECG_MAX86150_Patch](https://github.com/Mic-Tsai/Sensor_ECG_MAX86150_Patch)
+
+
+
+![*SA-ECG*](https://github.com/Mic-Tsai/SA-ECG_AD8233_Single-Arm_ECG/blob/main/res/SA-ECG_Single%20Arm_ECG-1.png)
 
 
 This application support WiFi transmission via ESPNOW (ESP8266 Broadcast), and need power by battery. You need 2x esp8266 board.
