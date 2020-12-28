@@ -2,6 +2,8 @@
 
 # SA-ECG | Single-Arm ECG
 
+   [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 According to previous project experience that board-level noise coming from the power source (USB cable). This application follows the wireless way to transfer data by esp-8266 micro-control, with ADI AD8232/AD8233 analog ADC board catch bio-signal.
 
  *Add additional OPA for reference electrodes.
@@ -34,6 +36,9 @@ Arduino tool kit, and require the following material:
 Any question or need technical support:
 
 * Contact me via mail (xbcke12345@gmail.com)
+
+   [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 
 ## 
 
