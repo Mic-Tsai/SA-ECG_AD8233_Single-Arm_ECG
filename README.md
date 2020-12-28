@@ -4,10 +4,13 @@
 
    [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
 
+
+Measure ECG from single arm with 3x electrodes.
+
 According to previous project experience that board-level noise coming from the power source (USB cable). This application follows the wireless way to transfer data by esp-8266 micro-control, with ADI AD8232/AD8233 analog ADC board catch bio-signal.
 
- *Add additional OPA for reference electrodes.
- *SA-ECG results showing R-R interval.
+ * Add additional OPA for reference electrodes.
+ * SA-ECG results showing R-R interval.
 
 ##
 
