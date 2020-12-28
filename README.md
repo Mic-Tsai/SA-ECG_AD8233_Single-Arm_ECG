@@ -4,9 +4,12 @@
 Base on ADI AD8232/AD8233 Analog ADC board, 
 
 
+
  -Add additional OPA for reference electrodes.
 
  -SA-ECG results showing R-R interval.
+
+
 
 
 This application support WiFi transmission via ESPNOW (ESP8266 Broadcast), and need power by battery. You need 2x esp8266 board.
