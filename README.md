@@ -1,12 +1,13 @@
 # SA-ECG | Single-Arm ECG
 
-Accroding to previous project experience that board level noise coming from power source (USB cable). This application follow the wireless way to transfering data by esp-8266 microcomtrol, with ADI AD8232/AD8233 analog ADC board catch bio-signal. Results show following.
-
+According to previous project experience that board-level noise coming from the power source (USB cable). This application follows the wireless way to transfer data by esp-8266 micro-control, with ADI AD8232/AD8233 analog ADC board catch bio-signal.
 
  -Add additional OPA for reference electrodes.
-
  -SA-ECG results showing R-R interval.
 
+##
+
+Reference project:
 
 * [Sensor_ECG_PPG_MAX86150_Dev-Board](https://github.com/Mic-Tsai/Sensor_ECG_PPG_MAX86150_Dev-Board)
 * [Sensor_ECG_MAX86150_Patch](https://github.com/Mic-Tsai/Sensor_ECG_MAX86150_Patch)
